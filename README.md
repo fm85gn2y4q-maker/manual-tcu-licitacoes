@@ -110,7 +110,8 @@ recuperáveis das fontes. O que viaja no repositório é
 ```bash
 .venv/Scripts/python.exe conferir.py            # o banco contra as fontes
 .venv/Scripts/python.exe servidor/testar.py     # as 13 ferramentas
-.venv/Scripts/python.exe conferir_pacote.py     # o .mcpb, por stdio, de verdade
+.venv/Scripts/python.exe conferir_pacote.py     # o .mcpb recém-construído, por stdio
+.venv/Scripts/python.exe conferir_instalado.py  # a extensão JÁ INSTALADA no Claude
 ```
 
 `conferir_pacote.py` mantém o canal aberto de propósito: despejando os pedidos
@@ -130,6 +131,12 @@ para Configurações → Extensões. O pacote leva as dependências para Python 
 Fixar o interpretador com `--python` não é opcional na prática: sem isso o
 manifesto fica com `"command": "python"`, que depende do PATH de quem sobe o
 servidor — o Claude Desktop, não o terminal onde se empacotou.
+
+Aponte para o **Python da Store** (`AppData\Local\Microsoft\WindowsAppsPythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\python.exe`), não para o
+venv do projeto: o pacote leva as próprias dependências em `server/lib/py312`,
+inseridas à frente do `sys.path`, então não precisa do venv — e apontar para
+ele faria a extensão morrer se a pasta do projeto fosse movida. É a convenção
+que o `acervo-cnj` instalado já segue.
 
 ## Render
 
