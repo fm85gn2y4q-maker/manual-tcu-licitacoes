@@ -1,0 +1,2 @@
+# O SDK do MCP mudou `mcp.server.fastmcp` de lugar na 2.0 — pinado por isso.
+mcp>=1.28,<2

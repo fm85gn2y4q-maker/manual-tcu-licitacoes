@@ -1,0 +1,44 @@
+# Blueprint do Render. Aplicar por Dashboard → Blueprints → New Blueprint.
+#
+# Só declara o que foi verificado nos acervos anteriores. Chave inventada faz o
+# deploy falhar por motivo invisível de fora — foi o que aconteceu uma vez com
+# `dockerBuildArgs`, que não existe.
+services:
+  - type: web
+    name: manual-tcu-licitacoes
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+
+    # `healthCheckPath` fica de fora DE PROPÓSITO, e isto foi medido.
+    #
+    # O Render faz GET no caminho declarado e só considera o serviço saudável
+    # com 2xx/3xx. O endpoint MCP responde:
+    #
+    #     GET  /mcp  → 406 Not Acceptable  ("Client must accept text/event-stream")
+    #     GET  /     → 404
+    #     POST /mcp  → 200
+    #
+    # Não existe caminho que responda 2xx a um GET. Declarar `healthCheckPath`
+    # deixaria o serviço eternamente "unhealthy", e o deploy falharia sem dizer
+    # por quê. Sem a chave, o Render considera o serviço no ar quando o processo
+    # passa a escutar na porta — que é o correto para este servidor.
+
+    envVars:
+      # Preenchidos DEPOIS do primeiro deploy, quando o endereço público existir.
+      # Sem eles o servidor recusa toda requisição externa com 421.
+      - key: MANUAL_DOMINIOS
+        sync: false
+      # Ativa o fluxo OAuth, que o ChatGPT exige para aceitar um conector.
+      # O Claude conecta sem ele.
+      - key: MANUAL_URL_PUBLICA
+        sync: false
+      # Só é gerado por Blueprint. Criando o serviço à mão, é preciso definir na
+      # mão — sem ele o conector pede autorização o dia inteiro, porque o
+      # segredo temporário morre a cada hibernação do plano gratuito.
+      - key: MANUAL_SEGREDO_OAUTH
+        generateValue: true
+
+    # O acervo vem no repositório (acervo/manual-tcu-v1.0.0.db.gz, 5,0 MB), com
+    # sha256 conferido no build. Não há download em tempo de construção e não há
+    # variável a preencher para os dados.

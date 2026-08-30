@@ -1,0 +1,716 @@
+{
+ "arquivo": "TCU_Licitacoes_Contratos_5ed_2025.pdf",
+ "sha256": "7b9795b50c29803097f06213b60b4bbde63d44b70f160d392ccdd6b69e956da7",
+ "mb": 35.25,
+ "paginas": 1042,
+ "metadata": {
+  "format": "PDF 1.5",
+  "title": "",
+  "author": "NCom",
+  "subject": "",
+  "keywords": "",
+  "creator": "Microsoft® Word 2016",
+  "producer": "iLovePDF",
+  "creationDate": "D:20260202135652+00'00'",
+  "modDate": "D:20260202140138Z",
+  "trapped": "",
+  "encryption": null
+ },
+ "chars_total": 3143981,
+ "chars_por_pagina": 3017.3,
+ "paginas_sem_texto": 8,
+ "detalhe_sem_texto": [
+  {
+   "p": 1,
+   "chars": 0,
+   "imgs": 2,
+   "spans": 66,
+   "desenhos": 0
+  },
+  {
+   "p": 2,
+   "chars": 0,
+   "imgs": 2,
+   "spans": 8,
+   "desenhos": 0
+  },
+  {
+   "p": 3,
+   "chars": 0,
+   "imgs": 2,
+   "spans": 8,
+   "desenhos": 0
+  },
+  {
+   "p": 5,
+   "chars": 0,
+   "imgs": 2,
+   "spans": 8,
+   "desenhos": 0
+  },
+  {
+   "p": 62,
+   "chars": 2,
+   "imgs": 37,
+   "spans": 11,
+   "desenhos": 0
+  },
+  {
+   "p": 415,
+   "chars": 3,
+   "imgs": 44,
+   "spans": 24,
+   "desenhos": 0
+  },
+  {
+   "p": 802,
+   "chars": 3,
+   "imgs": 70,
+   "spans": 14,
+   "desenhos": 0
+  },
+  {
+   "p": 804,
+   "chars": 3,
+   "imgs": 42,
+   "spans": 11,
+   "desenhos": 0
+  }
+ ],
+ "paginas_com_imagem": 237,
+ "imagens_total": 3396,
+ "outline_entradas": 210,
+ "outline_amostra": [
+  [
+   1,
+   "1. INTRODUÇÃO",
+   12,
+   {
+    "kind": 1,
+    "xref": 21062,
+    "page": 11,
+    "to": "Point(82.0, 86.03998)",
+    "zoom": 0.0,
+    "collapse": true
+   }
+  ],
+  [
+   2,
+   "1.1. Objetivo e escopo",
+   12,
+   {
+    "kind": 1,
+    "xref": 21063,
+    "page": 11,
+    "to": "Point(82.0, 154.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "1.2. Organização do conteúdo",
+   13,
+   {
+    "kind": 1,
+    "xref": 21064,
+    "page": 12,
+    "to": "Point(82.0, 325.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   1,
+   "2. GOVERNANÇA DAS CONTRATAÇÕES PÚBLICAS",
+   16,
+   {
+    "kind": 1,
+    "xref": 21065,
+    "page": 15,
+    "to": "Point(82.0, 86.03998)",
+    "zoom": 0.0,
+    "collapse": true
+   }
+  ],
+  [
+   2,
+   "2.1. Promoção da integridade nas contratações",
+   24,
+   {
+    "kind": 1,
+    "xref": 21066,
+    "page": 23,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "2.2. Gestão de riscos das contratações",
+   36,
+   {
+    "kind": 1,
+    "xref": 21067,
+    "page": 35,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "2.3. Promoção da gestão estratégica das contratações",
+   45,
+   {
+    "kind": 1,
+    "xref": 21068,
+    "page": 44,
+    "to": "Point(82.0, 354.03999)",
+    "zoom": 0.0,
+    "collapse": true
+   }
+  ],
+  [
+   3,
+   "2.3.1. Modelo de gestão das contratações",
+   46,
+   {
+    "kind": 1,
+    "xref": 21069,
+    "page": 45,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0,
+    "collapse": true
+   }
+  ],
+  [
+   4,
+   "2.3.1.1. Estrutura e processos de trabalho",
+   51,
+   {
+    "kind": 1,
+    "xref": 21070,
+    "page": 50,
+    "to": "Point(82.0, 116.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   4,
+   "2.3.1.2. Gestão de pessoas na função de contratações",
+   59,
+   {
+    "kind": 1,
+    "xref": 21071,
+    "page": 58,
+    "to": "Point(82.0, 152.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   4,
+   "2.3.1.3. Demais diretrizes para a função de contratações",
+   71,
+   {
+    "kind": 1,
+    "xref": 21072,
+    "page": 70,
+    "to": "Point(82.0, 643.04)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "2.3.2. Instrumentos de planejamento da função de contratações",
+   82,
+   {
+    "kind": 1,
+    "xref": 21073,
+    "page": 81,
+    "to": "Point(82.0, 522.04)",
+    "zoom": 0.0,
+    "collapse": true
+   }
+  ],
+  [
+   4,
+   "2.3.2.1. Objetivos, indicadores e metas para a função de contratações",
+   83,
+   {
+    "kind": 1,
+    "xref": 21074,
+    "page": 82,
+    "to": "Point(82.0, 406.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   4,
+   "2.3.2.2. Plano de logística sustentável (PLS)",
+   88,
+   {
+    "kind": 1,
+    "xref": 21075,
+    "page": 87,
+    "to": "Point(82.0, 731.04)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   4,
+   "2.3.2.3. Plano de contratações anual (PCA)",
+   95,
+   {
+    "kind": 1,
+    "xref": 21076,
+    "page": 94,
+    "to": "Point(82.0, 336.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "2.4. Monitoramento do desempenho da função de contratações",
+   106,
+   {
+    "kind": 1,
+    "xref": 21077,
+    "page": 105,
+    "to": "Point(82.0, 464.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "2.5. Promoção da transparência e da accountability das contratações",
+   111,
+   {
+    "kind": 1,
+    "xref": 21078,
+    "page": 110,
+    "to": "Point(82.0, 357.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "2.6. Atuação da auditoria interna para adicionar valor à função de contratações",
+   122,
+   {
+    "kind": 1,
+    "xref": 21079,
+    "page": 121,
+    "to": "Point(82.0, 212.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   1,
+   "3. METAPROCESSO DE CONTRATAÇÃO PÚBLICA",
+   141,
+   {
+    "kind": 1,
+    "xref": 21080,
+    "page": 140,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0,
+    "collapse": true
+   }
+  ],
+  [
+   2,
+   "3.1. Noções gerais sobre licitação",
+   147,
+   {
+    "kind": 1,
+    "xref": 21081,
+    "page": 146,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0,
+    "collapse": true
+   }
+  ],
+  [
+   3,
+   "3.1.1. O que é licitação?",
+   147,
+   {
+    "kind": 1,
+    "xref": 21082,
+    "page": 146,
+    "to": "Point(82.0, 128.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.1.2. Por que licitar?",
+   147,
+   {
+    "kind": 1,
+    "xref": 21083,
+    "page": 146,
+    "to": "Point(82.0, 478.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.1.3. Quem deve licitar?",
+   149,
+   {
+    "kind": 1,
+    "xref": 21084,
+    "page": 148,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.1.4. O que licitar?",
+   150,
+   {
+    "kind": 1,
+    "xref": 21085,
+    "page": 149,
+    "to": "Point(82.0, 544.04)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.1.5. Como licitar?",
+   154,
+   {
+    "kind": 1,
+    "xref": 21086,
+    "page": 153,
+    "to": "Point(82.0, 462.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "3.2. Princípios das licitações e dos contratos administrativos",
+   160,
+   {
+    "kind": 1,
+    "xref": 21087,
+    "page": 159,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "3.3. Agentes públicos",
+   169,
+   {
+    "kind": 1,
+    "xref": 21088,
+    "page": 168,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "3.4. Critérios de julgamento",
+   182,
+   {
+    "kind": 1,
+    "xref": 21089,
+    "page": 181,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0,
+    "collapse": true
+   }
+  ],
+  [
+   3,
+   "3.4.1. Menor preço",
+   183,
+   {
+    "kind": 1,
+    "xref": 21090,
+    "page": 182,
+    "to": "Point(82.0, 405.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.4.2. Maior desconto",
+   186,
+   {
+    "kind": 1,
+    "xref": 21091,
+    "page": 185,
+    "to": "Point(82.0, 305.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.4.3. Melhor técnica ou conteúdo artístico",
+   192,
+   {
+    "kind": 1,
+    "xref": 21092,
+    "page": 191,
+    "to": "Point(82.0, 164.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.4.4. Técnica e preço",
+   194,
+   {
+    "kind": 1,
+    "xref": 21093,
+    "page": 193,
+    "to": "Point(82.0, 717.04)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.4.5. Maior lance (no caso de leilão)",
+   201,
+   {
+    "kind": 1,
+    "xref": 21094,
+    "page": 200,
+    "to": "Point(82.0, 580.04)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.4.6. Maior retorno econômico",
+   203,
+   {
+    "kind": 1,
+    "xref": 21095,
+    "page": 202,
+    "to": "Point(82.0, 367.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "3.5. Modos de disputa",
+   207,
+   {
+    "kind": 1,
+    "xref": 21096,
+    "page": 206,
+    "to": "Point(82.0, 139.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   2,
+   "3.6. Modalidades de licitação",
+   213,
+   {
+    "kind": 1,
+    "xref": 21097,
+    "page": 212,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0,
+    "collapse": true
+   }
+  ],
+  [
+   3,
+   "3.6.1. Pregão",
+   214,
+   {
+    "kind": 1,
+    "xref": 21098,
+    "page": 213,
+    "to": "Point(82.0, 98.03998)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.6.2. Concorrência",
+   218,
+   {
+    "kind": 1,
+    "xref": 21099,
+    "page": 217,
+    "to": "Point(82.0, 500.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.6.3. Concurso",
+   221,
+   {
+    "kind": 1,
+    "xref": 21100,
+    "page": 220,
+    "to": "Point(82.0, 318.03999)",
+    "zoom": 0.0
+   }
+  ],
+  [
+   3,
+   "3.6.4. Leilão",
+   224,
+   {
+    "kind": 1,
+    "xref": 21101,
+    "page": 223,
+    "to": "Point(82.0, 256.03999)",
+    "zoom": 0.0
+   }
+  ]
+ ],
+ "fontes_top": [
+  [
+   "Times New Roman",
+   2926621
+  ],
+  [
+   "Times New Roman,Bold",
+   131865
+  ],
+  [
+   "Tahoma",
+   28705
+  ],
+  [
+   "Times New Roman,Italic",
+   6614
+  ],
+  [
+   "Tahoma,Bold",
+   2073
+  ],
+  [
+   "Arial",
+   929
+  ],
+  [
+   "Calibri",
+   892
+  ],
+  [
+   "Times New Roman,BoldItalic",
+   422
+  ],
+  [
+   "Arial,Bold",
+   210
+  ],
+  [
+   "Symbol",
+   74
+  ]
+ ],
+ "tamanhos_top": [
+  [
+   10.1,
+   2225738
+  ],
+  [
+   11.9,
+   552644
+  ],
+  [
+   11.2,
+   172293
+  ],
+  [
+   9.0,
+   133052
+  ],
+  [
+   7.9,
+   9177
+  ],
+  [
+   6.5,
+   5113
+  ],
+  [
+   15.8,
+   257
+  ],
+  [
+   13.7,
+   88
+  ],
+  [
+   6.8,
+   29
+  ],
+  [
+   11.4,
+   8
+  ],
+  [
+   11.5,
+   4
+  ],
+  [
+   9.4,
+   2
+  ]
+ ],
+ "cores_top": [
+  [
+   "0x0",
+   2999101
+  ],
+  [
+   "0xff",
+   77480
+  ],
+  [
+   "0xffffff",
+   10616
+  ],
+  [
+   "0xd39700",
+   9384
+  ],
+  [
+   "0x162937",
+   769
+  ],
+  [
+   "0x4f81bd",
+   639
+  ],
+  [
+   "0x1351b4",
+   342
+  ],
+  [
+   "0xff0000",
+   65
+  ],
+  [
+   "0x555555",
+   5
+  ],
+  [
+   "0x333333",
+   2
+  ],
+  [
+   "0x800000",
+   1
+  ],
+  [
+   "0x1b6dcb",
+   1
+  ]
+ ]
+}

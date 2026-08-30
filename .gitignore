@@ -1,0 +1,18 @@
+# Matéria-prima: o PDF de 35 MB e o JSON cru da API do TCU. Recuperável das
+# fontes, e `coletar.py` o refaz. Fica fora do Git por tamanho, não por sigilo.
+bruto/
+
+# Gerado por montar.py a partir de bruto/. O que viaja no repositório é a
+# versão comprimida em acervo/, com sha256 declarado no Dockerfile.
+manual_tcu.sqlite3
+manual_tcu.sqlite3-wal
+manual_tcu.sqlite3-shm
+dados/
+
+# Gerados por empacotar_mcpb.py.
+build/
+dist/
+
+.venv/
+__pycache__/
+*.pyc
